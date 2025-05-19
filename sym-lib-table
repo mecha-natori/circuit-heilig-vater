@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "circuit-heilig-vater")(type "KiCad")(uri "${KIPRJMOD}/circuit-heilig-vater.kicad_sym")(options "")(descr ""))
+)
